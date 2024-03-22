@@ -21,10 +21,9 @@ Developed by: KAVI NILAVAN DK
 RegisterNumber:212223230103
 */
 ```
-```
+
 ![image](https://github.com/KavinilavanDK/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870429/9bb89973-21c5-4988-a795-6a311a005d21)
 
-```
 ## Output:
 
 
